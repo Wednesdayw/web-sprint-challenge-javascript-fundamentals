@@ -25,7 +25,7 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. Briefly compare and contrast `.forEach` & `.map` (2-3 sentences max)
-   .forEach iterates through every item in an array without stopping. It doesn't return a new array automatically and does need the return keyword. .map converts data, returns a brand new array it doesn't manipulate the original and does require a return statement.
+   .forEach iterates through every item in an array without stopping. It doesn't return a new array automatically and does not need the return keyword. .map converts data, returns a brand new array it doesn't manipulate the original and does require a return statement.
 
 2. Explain the difference between a callback and a higher order function.
    Higher order functions can receive other functions as parameters, callbacks are the functions that are passed into higher order functions as arguments. Callback functions are passed in, higher order functions receive.
@@ -99,6 +99,6 @@ There are a few stretch problems found throughout the files, don't work on them 
 
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repo). **Please don't merge your own pull request**
-- [ ] Add your team lead as a reviewer on the pull-request
+- [x] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repo). **Please don't merge your own pull request**
+- [x] Add your team lead as a reviewer on the pull-request
 - [ ] Your team lead will count the project as complete after receiving your pull-request
